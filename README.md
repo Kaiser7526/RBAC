@@ -21,9 +21,7 @@ To get started with this project, follow the steps below:
 ### 1. Clone the Project 
    First, clone the repository to your local machine using command :
      
-    git clone 
-        
-
+    git clone https://github.com/Kaiser7526/RBAC
 
 ### 2. Navigate to the Project Folder
    Move into the project directory:
